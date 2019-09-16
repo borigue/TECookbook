@@ -45,7 +45,7 @@ $teserver=""
 $twPass=""
 $twUser=""
 
-. .\Constants-Oracle.ps1
+. .\Constants.ps1
 
 
 ################ ********************* ####################
